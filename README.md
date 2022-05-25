@@ -1,12 +1,12 @@
 # mapbox-app
 <img src="https://github.com/luisgs7/mapbox-app/blob/main/screens/01.png">
 
-## Create file to path ```<project-name>/app/src/main/res/values``` 
+Create file to path ```<project-name>/app/src/main/res/values``` 
 ```
 developer-config.xml
 ```
 
-## Add secret key 
+Add secret key 
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
